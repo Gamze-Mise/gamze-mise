@@ -3,7 +3,9 @@ import { createBrowserRouter, RouterProvider } from "react-router-dom";
 import Home from "../components/Home";
 import About from "../components/About";
 import Blog from "../components/Blog";
+import NavigateExm from "../components/Navigatepage";
 import "./App.css";
+import { Navigate } from "react-router-dom";
 
 const router = createBrowserRouter([
   {
@@ -17,6 +19,10 @@ const router = createBrowserRouter([
   {
     path: "/blog/:id",
     element: <Blog />,
+  },
+  {
+    path: "/navigate",
+    element: <NavigateExm />,
   },
 ]);
 

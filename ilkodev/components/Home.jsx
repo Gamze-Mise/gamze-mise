@@ -6,6 +6,8 @@ export const Home = ({}) => {
     <div className="App">
       <h2>Home</h2>
       <Link to="/about"> Go to About</Link>
+      <br />
+      <Link to="/navigate">Go to Navigate</Link>
     </div>
   );
 };
