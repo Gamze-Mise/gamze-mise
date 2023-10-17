@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Codeigniter**
 
-- 💬 Ask me about **PHP, Javascript, JQuery**
+- 💬 Ask me about **PHP, Javascript, JQuery, React.Js, Next.Js**
 
 - 📫 How to reach me **gamzegm8@gmail.com**
 
