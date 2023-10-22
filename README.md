@@ -1,11 +1,14 @@
 <h1 align="center">Hi 👋, I'm Gamze</h1>
 <h3 align="center">A passionate Jr. Software Developer</h3>
+<p>Hi there! With a background of four years as a psychological counselor, I made a shift into software development and remarkably grew within just two years. I'm deeply passionate about tech, and my unique blend of experience has enabled me to bring a fresh perspective to projects. As I continue my journey in the tech world, I'm eager to collaborate, contribute, and further hone my skills.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gamze-mise&label=Profile%20views&color=0e75b6&style=flat" alt="gamze-mise" /> </p>
 
 - 🔭 I’m currently working on [Selfprof](https://selfprof.com/)
-
-- 🌱 I’m currently learning **Codeigniter**
+  
+- A PHP Lover, but getting in to JS Frameworks like Next.js instead of PHP
+  
+- Currently learning/making projects with React, Next.js and Express.js.
 
 - 💬 Ask me about **PHP, Javascript, JQuery, React.Js, Next.Js**
 
@@ -13,6 +16,11 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/gamze-mise/](https://www.linkedin.com/in/gamze-mise/)
 
+<h3 align="left">Currently:</h3>
+<p align="left"> 
+ Junior Fullstack Developer(PHP, Mysql, JS, jQuery) at [**Selfprof**](https://selfprof.com) (Turkey/March 2022-present)
+</p>
+  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/gamze-mise" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gamze mişe" height="30" width="40" /></a>
