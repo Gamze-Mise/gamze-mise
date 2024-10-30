@@ -1,5 +1,5 @@
 # About Me
-👋 Hi there! With a background of four years as a psychological counselor, I made a shift into software development and remarkably grew within just two years. I'm deeply passionate about tech, and my unique blend of experience has enabled me to bring a fresh perspective to projects. As I continue my journey in the tech world, I'm eager to collaborate, contribute, and further hone my skills.
+👋 Hi there! With a background of four years as a psychological counselor, I made a shift into software development and remarkably grew within just three years. I'm deeply passionate about tech, and my unique blend of experience has enabled me to bring a fresh perspective to projects. As I continue my journey in the tech world, I'm eager to collaborate, contribute, and further hone my skills.
 
 - A PHP Lover, but getting in to JS Frameworks like Next.js instead of PHP
 - Currently learning/making projects with React, Next.js and Express.js.
