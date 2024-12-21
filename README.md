@@ -10,13 +10,11 @@ Whether it's creating intuitive front-end experiences or architecting robust bac
 ## Contacts
 [![linkedin-badge]][linkedin] [![gmail-badge]][gmail]
 
-
 ## IT Jobs & Project Collabs
 
 ### Current
 
-- Junior Fullstack Developer(PHP, Mysql, JS, jQuery) at [**Selfprof**](https://selfprof.com) (Turkey/March 2022-present)
-
+- Junior Fullstack Developer (PHP, Mysql, JS, jQuery) at [**Selfprof**](https://selfprof.com) (Turkey/March 2022-present)
 
 [linkedin]: https://www.linkedin.com/in/gamze-mise
 [gmail]: mailto:gamzegm8@gmail.com
@@ -24,21 +22,39 @@ Whether it's creating intuitive front-end experiences or architecting robust bac
 [gmail-badge]: https://img.shields.io/badge/Gmail-black?logo=gmail&style=for-the-badge
 
 
+## 🔧 Tools & Technologies
 
+### Languages & Frameworks:
+- **PHP** | **JavaScript** | **React.js** | **Next.js** | **Node.js** | **Express.js** | **MySQL**
 
+### Tools & Environments:
+- **Git** | **GitHub** | **VS Code** | **Docker** | **JIRA** | **Trello** | **Postman** | **Slack**
+
+  
 
 ## ⚙️ GitHub Analytics
 
 > **Note**: The majority of my coding work is done in private repositories for work-related projects. These contributions do not appear in my public GitHub profile stats or activity graph. As a result, my public profile might not accurately reflect my current work activity. If you'd like to discuss my projects or collaborate, feel free to reach out!
 
+> **Please Note**: The commit activity in my profile do not fully represent my daily development activities. A large portion of my work happens in private repositories, which are not publicly visible. However, I actively contribute to multiple projects and engage with cutting-edge technologies on a daily basis.
+
 <!--### GitHub Stats:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gamze-Mise&show_icons=true&theme=radical)
-
 -->
-
 ### Top Languages:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gamze-Mise&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gamze-Mise&layout=compact&theme=radical)
 
 ### Contribution Graph:
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Gamze-Mise&theme=github)
+
+
+<!--![GitHub Snake](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)-->
+
+
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=Gamze-Mise&theme=radical)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Gamze-Mise)
+
+
+![Visitor Badge](https://komarev.com/ghpvc/?username=Gamze-Mise)
 
