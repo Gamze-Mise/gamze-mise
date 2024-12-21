@@ -8,7 +8,6 @@ I'm a passionate developer who began with PHP and has since expanded into the dy
 Whether it's creating intuitive front-end experiences or architecting robust back-end systems, I'm always eager to collaborate on meaningful projects that make a difference. Let’s connect and turn innovative ideas into reality!
 
 ## Contacts
-
 [![linkedin-badge]][linkedin] [![gmail-badge]][gmail]
 
 
@@ -23,3 +22,23 @@ Whether it's creating intuitive front-end experiences or architecting robust bac
 [gmail]: mailto:gamzegm8@gmail.com
 [linkedin-badge]: https://img.shields.io/badge/Gamze%20Mise-black?logo=linkedin&style=for-the-badge
 [gmail-badge]: https://img.shields.io/badge/Gmail-black?logo=gmail&style=for-the-badge
+
+
+
+
+
+## ⚙️ GitHub Analytics
+
+> **Note**: The majority of my coding work is done in private repositories for work-related projects. These contributions do not appear in my public GitHub profile stats or activity graph. As a result, my public profile might not accurately reflect my current work activity. If you'd like to discuss my projects or collaborate, feel free to reach out!
+
+<!--### GitHub Stats:
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gamze-Mise&show_icons=true&theme=radical)
+
+-->
+
+### Top Languages:
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gamze-Mise&layout=compact)
+
+### Contribution Graph:
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Gamze-Mise&theme=github)
+
