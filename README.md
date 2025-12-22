@@ -51,9 +51,6 @@ Whether it's creating intuitive front-end experiences or architecting robust bac
 <!--![GitHub Snake](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)-->
 
 
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=Gamze-Mise&theme=radical)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Gamze-Mise)
 
 
 ![Visitor Badge](https://komarev.com/ghpvc/?username=Gamze-Mise)
