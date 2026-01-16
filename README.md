@@ -1,13 +1,15 @@
 # About Me
-👋 Hello, and welcome to my GitHub profile!
 
-With a solid foundation of four years as a psychological counselor, I embraced a transformative journey into the world of software development, achieving remarkable growth in just three years. My unique background empowers me to approach challenges with a fresh perspective, blending analytical skills with creativity to craft impactful solutions.
+👋 Hello and welcome!
 
-I'm a passionate developer who began with PHP and has since expanded into the dynamic world of JavaScript frameworks. I'm currently building projects with React, Next.js, Node.js, and Express.js, and I'm continually pushing the boundaries of what's possible with these technologies.
+After several years working as a psychological counselor, I transitioned into software development and have been actively building products for the past few years. This unique background helps me approach engineering problems with empathy, analysis, and creative problem solving.
 
-Whether it's creating intuitive front-end experiences or architecting robust back-end systems, I'm always eager to collaborate on meaningful projects that make a difference. Let’s connect and turn innovative ideas into reality!
+I started out with PHP and JavaScript, and over time expanded into modern JavaScript frameworks and backend tools. I enjoy building intuitive front-end experiences and reliable back-end services, and I’m continuously improving my skills through real projects.
+
+Currently I work with **React**, **Next.js**, **Node.js**, **Express**, **PostgreSQL** and **MySQL**, and I’m always open to collaborations on meaningful projects.
 
 ## Contacts
+
 [![linkedin-badge]][linkedin] [![gmail-badge]][gmail]
 
 [linkedin]: https://www.linkedin.com/in/gamze-mise
@@ -19,28 +21,19 @@ Whether it's creating intuitive front-end experiences or architecting robust bac
 ## 🔧 Tools & Technologies
 
 ### Languages & Frameworks:
-- **PHP** | **JavaScript** | **React.js** | **Next.js** | **Node.js** | **Express.js** | **MySQL**
+- **PHP** | **JavaScript** | **React.js** | **Next.js** | **Node.js** | **Express.js** | **PostgreSQL** | **MySQL**
 
 ### Tools & Environments:
 - **Git** | **GitHub** | **VS Code** | **Docker** | **JIRA** | **Trello** | **Postman** | **Slack**
 
-  
 
-## ⚙️ GitHub Analytics
+## ⚙ GitHub Activity
 
-> **Note**: The majority of my coding work is done in private repositories for work-related projects. These contributions do not appear in my public GitHub profile stats or activity graph. As a result, my public profile might not accurately reflect my current work activity. If you'd like to discuss my projects or collaborate, feel free to reach out!
-
-> **Please Note**: The commit activity in my profile do not fully represent my daily development activities. A large portion of my work happens in private repositories, which are not publicly visible. However, I actively contribute to multiple projects and engage with cutting-edge technologies on a daily basis.
-
+> Note: A large portion of my professional work is stored in private repositories. This means the public activity graph doesn’t fully reflect my day-to-day development work. If you'd like to see examples or discuss details, feel free to reach out!
 
 ### Contribution Graph:
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Gamze-Mise&theme=github)
 
-
-<!--![GitHub Snake](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)-->
-
-
-
-
 ![Visitor Badge](https://komarev.com/ghpvc/?username=Gamze-Mise)
+
 
