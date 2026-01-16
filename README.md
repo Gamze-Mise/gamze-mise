@@ -32,11 +32,6 @@ Whether it's creating intuitive front-end experiences or architecting robust bac
 
 > **Please Note**: The commit activity in my profile do not fully represent my daily development activities. A large portion of my work happens in private repositories, which are not publicly visible. However, I actively contribute to multiple projects and engage with cutting-edge technologies on a daily basis.
 
-<!--### GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gamze-Mise&show_icons=true&theme=radical)
--->
-### Top Languages:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gamze-Mise&layout=compact&theme=radical)
 
 ### Contribution Graph:
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Gamze-Mise&theme=github)
