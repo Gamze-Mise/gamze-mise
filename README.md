@@ -10,9 +10,6 @@ Whether it's creating intuitive front-end experiences or architecting robust bac
 ## Contacts
 [![linkedin-badge]][linkedin] [![gmail-badge]][gmail]
 
-## IT Jobs & Project Collabs
-
-
 [linkedin]: https://www.linkedin.com/in/gamze-mise
 [gmail]: mailto:gamzegm8@gmail.com
 [linkedin-badge]: https://img.shields.io/badge/Gamze%20Mise-black?logo=linkedin&style=for-the-badge
