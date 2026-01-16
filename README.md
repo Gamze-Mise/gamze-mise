@@ -12,9 +12,6 @@ Whether it's creating intuitive front-end experiences or architecting robust bac
 
 ## IT Jobs & Project Collabs
 
-### Current
-
-- Junior Fullstack Developer (PHP, Mysql, JS, jQuery) at [**Selfprof**](https://selfprof.com) (Turkey/March 2022-present)
 
 [linkedin]: https://www.linkedin.com/in/gamze-mise
 [gmail]: mailto:gamzegm8@gmail.com
