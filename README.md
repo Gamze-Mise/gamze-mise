@@ -31,9 +31,5 @@ Currently I work with **React**, **Next.js**, **Node.js**, **Express**, **Postgr
 
 > Note: A large portion of my professional work is stored in private repositories. This means the public activity graph doesn’t fully reflect my day-to-day development work. If you'd like to see examples or discuss details, feel free to reach out!
 
-### Contribution Graph:
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Gamze-Mise&theme=github)
-
-![Visitor Badge](https://komarev.com/ghpvc/?username=Gamze-Mise)
 
 
